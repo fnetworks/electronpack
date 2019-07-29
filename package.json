@@ -1,0 +1,11 @@
+{
+  "name": "electronpack",
+  "version": "0.1.0",
+  "description": "A Webpack/Electron/React boilerplate thingy",
+  "keywords": [
+    "react", "electron", "webpack", "boilerplate"
+  ],
+  "repository": "https://github.com/fnetworks/electronpack.git",
+  "author": "Felix Solcher <felix.solcher@gmail.com>",
+  "license": "MIT"
+}
